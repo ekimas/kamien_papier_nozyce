@@ -1,0 +1,45 @@
+body{
+  background-color: #fff;
+  color: #636b6f;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 200;
+  margin:0;
+  height: 100vh;
+}
+.content {
+  text-align: center;
+}
+.title {
+  font-size: 3em;
+  padding: 10vh 10vh 5vh 10vh;
+}
+
+//strona startowa
+.button-start{
+  margin: 4vh;
+  padding: 3vh;
+  font-size: 1.5em;
+}
+
+.chosen{
+  font-size: 1.4em;
+  font-weight:bold;
+}
+.bolder{
+  font-weight: bolder;
+}
+.button-result{
+  margin: 1vh;
+  padding: 2vh;
+  font-size: 1em;
+}
+.block-center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.table-margin-top{
+  margin-top: 1.75em;
+}
+.tr-history{
+  padding-bottom: 10px;
+}
